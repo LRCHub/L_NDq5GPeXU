@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ゲットバックサンボマスター",
+  "base_artist": "Sambomaster",
+  "createdAt": "2026-03-02T19:21:08.356315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゲットバックサンボマスター",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/01_ゲットバックサンボマスター_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゲットバックサンボマスター",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_ゲットバックサンボマスター_サンボマスター.txt"
+    }
+  ]
+}
